@@ -1,17 +1,20 @@
 ---
 layout: single
 title: "깃허브(GitHub) 블로그 07 : 공지사항, 버튼 , Youtube 영상 추가"
-categories: 
+categories: blog
 tags:
   - Github
   - Blog
-toc: true
 author_profile: false
 sidebar:
-  - nav: docs
+  - nav: "counts"
+redirect_from:
+  - /blog/GitHub-blog-07st
 ---
 
 ### 1. 공지사항
+
+> 확인
 
 <a href="https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices" class="btn btn--primary">Notice 관련 페이지</a>
 
